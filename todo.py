@@ -40,7 +40,7 @@ while True:
     elif option=='3':
         remove_list()
     elif option=='4':
-        print("good bye")
+        print("bye")
         break
     else:
         print("invalid option")
